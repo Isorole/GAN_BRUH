@@ -1,0 +1,2 @@
+model_checkpoint_path: "stylized_image-1"
+all_model_checkpoint_paths: "stylized_image-1"
